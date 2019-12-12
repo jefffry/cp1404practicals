@@ -13,7 +13,7 @@ def color(user_input):
         exit()
 
     else:
-        print("False")
+        print("Invalid color name please try again")
         main()
 
 main()
